@@ -2,5 +2,5 @@ def run(n):
     x = 10/n
     return x
 
-print(run(5))  
+print(run(10))  
 
